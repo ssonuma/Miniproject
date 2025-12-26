@@ -1,59 +1,80 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Title of the Project:
+Electricity Bill Optimization and Prediction Web Application
+
+## Small Description:
+The Electricity Bill Optimization and Prediction Web Application is designed to help users estimate their monthly electricity bills based on energy consumption patterns and tariff slabs, while also providing insights to optimize electricity usage and reduce costs.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+
+
+The Electricity Bill Optimization and Prediction Web Application is a user-friendly web-based system developed to predict electricity bills for domestic and commercial consumers. Traditional electricity billing systems often lack transparency, making it difficult for users to estimate their expenses in advance. This project addresses that challenge by allowing users to input their electricity consumption details and instantly receive an estimated bill.
+
+The application provides an intuitive interface with dedicated pages for Home, Help, and Bill Prediction (Try Now). By leveraging predefined tariff slabs and consumption logic, the system calculates the estimated bill efficiently. In addition to prediction, the application also promotes energy awareness by offering optimization tips to reduce electricity usage.
+
+This project demonstrates the effective use of web technologies to build an accessible and practical solution that enhances user awareness, improves financial planning, and supports sustainable energy consumption.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+
+Predicts monthly electricity bills based on consumption units.
+Supports domestic and commercial consumer categories.
+User-friendly and responsive web interface.
+Real-time bill calculation with instant results.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+
+
+Operating System: Windows 10 / Ubuntu (64-bit recommended).
+
+Development Environment: Any modern web browser (Chrome, Firefox, Edge).
+
+Frontend Technologies: HTML5, CSS3, JavaScript.
+
+IDE: Visual Studio Code for development and debugging.
+
+Version Control: Git for source code management.
+
+Hardware Requirements: Minimum 4 GB RAM, standard processor.
+
+Additional Tools: Internet connection for loading fonts and libraries (optional).
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+The system follows a simple client-side web architecture.
+The user interacts with the web interface through the browser.
+Input data (units consumed and consumer type) is processed using JavaScript logic.
+Tariff-based calculation logic computes the estimated electricity bill.
+The predicted bill is displayed instantly on the user interface.
 
+## Folder structure
 
-## Output
+electricity-bill-app/
+│
+├── index.html      (Home page)
+├── help.html       (Help page)
+├── try.html        (Try Now / Prediction page)
+├── style.css       (Common styling)
+└── script.js       (Bill calculation logic)
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+## Output:
+<img width="1917" height="931" alt="Screenshot 2025-12-25 221325" src="https://github.com/user-attachments/assets/6734fb3b-3573-48d2-82b8-4ee7115db2ee" />
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="1885" height="929" alt="Screenshot 2025-12-25 221334" src="https://github.com/user-attachments/assets/bffe1353-78b6-458e-8ac3-c5cef60e64f3" />
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
-## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
 
 
+The Electricity Bill Optimization and Prediction Web Application successfully provides users with quick and accurate bill estimates, helping them plan expenses more effectively. The application increases awareness about electricity consumption and encourages users to adopt energy-saving practices.
 
+The project demonstrates how simple web technologies can be used to solve real-world problems related to energy management. It serves as a strong foundation for future enhancements such as machine learning-based prediction, real-time tariff integration, user account management, and data analytics.
 
+Overall, the project contributes to promoting cost efficiency, energy conservation, and smart usage of electricity through a clean and accessible digital solution.
+
+## References
+
+[1] A. MohsenianRad and A. LeonGarcia, “Optimal Residential Load Scheduling for Electricity Cost Minimization,” IEEE Trans. Smart Grid, vol. 1, no. 2, pp. 213–221, 2010.
+[2] S. Maharjan, Q. Zhu, Y. Zhang, S. Gjessing and T. Basar, “Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Perspective,” IEEE Trans. Smart Grid, vol. 4, no. 1, pp. 120–132, 2013.
+[3] H. MohsenianRad, V. W. Wong, J. Jatskevich, R. Schober and A. LeonGarcia, “Autonomous DemandSide Management Based on GameTheoretic Energy Consumption Scheduling for the Future Smart Grid,” IEEE Trans. Smart Grid, vol. 1, no. 3, pp. 320–331, 2010.
+[4] Y. Wang, W. Saad, Z. Han, H. V. Poor and T. Basar, “A GameTheoretic Approach to Demand Response Management in Smart Grid,” IEEE Trans. Smart Grid, vol. 3, no. 3, pp. 1239–1246, 2012.
+[5] J. Qin, Y. Zhang and Q. Chen, “Residential Load Scheduling for Electricity Cost Minimization Using Heuristic Optimization,” Proc. IEEE Intl. Conf. Smart Grid Comm., 2015, pp. 789–794.
