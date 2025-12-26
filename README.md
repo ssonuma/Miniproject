@@ -1,5 +1,5 @@
 ## Title of the Project:
-Electricity Bill Optimization and Prediction Web Application
+Electricity Bill Optimization Application
 
 ## Small Description:
 The Electricity Bill Optimization and Prediction Web Application is designed to help users estimate their monthly electricity bills based on energy consumption patterns and tariff slabs, while also providing insights to optimize electricity usage and reduce costs.
@@ -47,13 +47,14 @@ The predicted bill is displayed instantly on the user interface.
 
 ## Folder structure
 
-electricity-bill-app/
+```electricity-bill-app/
 │
 ├── index.html      (Home page)
 ├── help.html       (Help page)
 ├── try.html        (Try Now / Prediction page)
 ├── style.css       (Common styling)
 └── script.js       (Bill calculation logic)
+```
 
 ## Output:
 <img width="1917" height="931" alt="Screenshot 2025-12-25 221325" src="https://github.com/user-attachments/assets/6734fb3b-3573-48d2-82b8-4ee7115db2ee" />
@@ -74,7 +75,11 @@ Overall, the project contributes to promoting cost efficiency, energy conservati
 ## References
 
 [1] A. MohsenianRad and A. LeonGarcia, “Optimal Residential Load Scheduling for Electricity Cost Minimization,” IEEE Trans. Smart Grid, vol. 1, no. 2, pp. 213–221, 2010.
+
 [2] S. Maharjan, Q. Zhu, Y. Zhang, S. Gjessing and T. Basar, “Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Perspective,” IEEE Trans. Smart Grid, vol. 4, no. 1, pp. 120–132, 2013.
+
 [3] H. MohsenianRad, V. W. Wong, J. Jatskevich, R. Schober and A. LeonGarcia, “Autonomous DemandSide Management Based on GameTheoretic Energy Consumption Scheduling for the Future Smart Grid,” IEEE Trans. Smart Grid, vol. 1, no. 3, pp. 320–331, 2010.
+
 [4] Y. Wang, W. Saad, Z. Han, H. V. Poor and T. Basar, “A GameTheoretic Approach to Demand Response Management in Smart Grid,” IEEE Trans. Smart Grid, vol. 3, no. 3, pp. 1239–1246, 2012.
+
 [5] J. Qin, Y. Zhang and Q. Chen, “Residential Load Scheduling for Electricity Cost Minimization Using Heuristic Optimization,” Proc. IEEE Intl. Conf. Smart Grid Comm., 2015, pp. 789–794.
