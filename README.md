@@ -45,21 +45,11 @@ Input data (units consumed and consumer type) is processed using JavaScript logi
 Tariff-based calculation logic computes the estimated electricity bill.
 The predicted bill is displayed instantly on the user interface.
 
-## Folder structure
-
-```electricity-bill-app/
-│
-├── index.html      (Home page)
-├── help.html       (Help page)
-├── try.html        (Try Now / Prediction page)
-├── style.css       (Common styling)
-└── script.js       (Bill calculation logic)
-```
 
 ## Output:
-<img width="1917" height="931" alt="Screenshot 2025-12-25 221325" src="https://github.com/user-attachments/assets/6734fb3b-3573-48d2-82b8-4ee7115db2ee" />
-
-<img width="1885" height="929" alt="Screenshot 2025-12-25 221334" src="https://github.com/user-attachments/assets/bffe1353-78b6-458e-8ac3-c5cef60e64f3" />
+![WhatsApp Image 2025-12-27 at 9 05 51 AM (1)](https://github.com/user-attachments/assets/372d19c1-ecb9-4c02-8378-894c05c4b972)
+![WhatsApp Image 2025-12-27 at 9 05 51 AM](https://github.com/user-attachments/assets/cb7d569e-3893-422c-a980-34f9b269fb2c)
+![WhatsApp Image 2025-12-27 at 9 05 49 AM](https://github.com/user-attachments/assets/124c2aa0-d24b-4551-ae18-eea422493c79)
 
 
 
